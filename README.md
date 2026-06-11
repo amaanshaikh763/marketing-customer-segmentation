@@ -1,7 +1,5 @@
 ![Banner](images/banner.png)
 
-# 📊 Marketing Customer Analytics & Segmentation
-
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange)
