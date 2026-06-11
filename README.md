@@ -144,19 +144,19 @@ Based on the analysis:
 
 ### Customer Segmentation
 
-![Customer Segmentation](images/customer_segments.png)
+![Customer Segmentation](images/customer_segments.jpeg)
 
 ### Income vs Spending
 
-![Income vs Spending](images/income_vs_spending.png)
+![Income vs Spending](images/incomevstotalspend.jpeg)
 
 ### Campaign Performance
 
-![Campaign Performance](images/campaign_performance.png)
+![Campaign Performance](images/campaign_performance.jpeg)
 
 ### Education Spending
 
-![Education Spending](images/education_spending.png)
+![Education Spending](images/education_spend.jpeg)
 
 ---
 
