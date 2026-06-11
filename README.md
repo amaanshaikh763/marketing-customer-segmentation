@@ -1,5 +1,13 @@
 ![Banner](images/banner.png)
 
+## Executive Summary
+
+This project analyzed 2,240 customer records to understand spending behavior and marketing campaign performance.
+
+Using exploratory data analysis and K-Means clustering, customers were segmented into three groups: Budget, Regular, and VIP customers.
+
+The analysis found a strong positive relationship between income and spending (correlation = 0.66) and identified Campaign 4 as the highest-performing marketing campaign.
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange)
