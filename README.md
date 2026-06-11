@@ -1,4 +1,4 @@
-![Banner](images/Marketing customer Analytics.png)
+![Banner](images/banner.png)
 
 # 📊 Marketing Customer Analytics & Segmentation
 
